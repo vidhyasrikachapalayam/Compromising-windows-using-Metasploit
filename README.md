@@ -1,4 +1,4 @@
-# NAME:Vidhysri
+# NAME:Vidhyasri
 # REG NO:212222230170
 
 # EX N0 6Compromising-windows-using-Metasploit
